@@ -1,0 +1,2 @@
+0|Roberto|28|Rua dos AAA|2800,00
+1|Marisa|61|Rua dos AAA|1700,00

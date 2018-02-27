@@ -1,0 +1,9 @@
+C:\Users\Roberto\Desktop\XML(NFE)\LeitorNfe\LeitorNfe\bin\Debug\LeitorNfe.exe.config
+C:\Users\Roberto\Desktop\XML(NFE)\LeitorNfe\LeitorNfe\bin\Debug\LeitorNfe.exe
+C:\Users\Roberto\Desktop\XML(NFE)\LeitorNfe\LeitorNfe\bin\Debug\LeitorNfe.pdb
+C:\Users\Roberto\Desktop\XML(NFE)\LeitorNfe\LeitorNfe\obj\Debug\LeitorNfe.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\XML(NFE)\LeitorNfe\LeitorNfe\obj\Debug\LeitorNfe.Form1.resources
+C:\Users\Roberto\Desktop\XML(NFE)\LeitorNfe\LeitorNfe\obj\Debug\LeitorNfe.Properties.Resources.resources
+C:\Users\Roberto\Desktop\XML(NFE)\LeitorNfe\LeitorNfe\obj\Debug\LeitorNfe.csproj.GenerateResource.Cache
+C:\Users\Roberto\Desktop\XML(NFE)\LeitorNfe\LeitorNfe\obj\Debug\LeitorNfe.exe
+C:\Users\Roberto\Desktop\XML(NFE)\LeitorNfe\LeitorNfe\obj\Debug\LeitorNfe.pdb
